@@ -6,12 +6,12 @@ I'm KAKASHI (KAKASHI#3709) discord, I am a teen developer learning as much as I 
 
 ## Social
 [![Discord Badge](https://img.shields.io/static/v1?label=D&message=Discord&color=brightgreen&link=https://discord.gg/cjAHPfyy6d)](https://discord.gg/cjAHPfyy6d)
+[![Kakashi Bot](https://img.shields.io/static/v1?label=BOT&message=KAKASHI&color=blue&link=http://bit.ly/botkakashi)](http://bit.ly/botkakashi)
 ## Languages
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kakashidracq&show_icons=true&theme=radical">
 
-## Banner
-<img src="https://images-ext-1.discordapp.net/external/SFHuPuBS5VGzndgnoZgujp9AwR9_zTXKvuE9694LzT8/%3Fwidth%3D591%26height%3D400/https/media.discordapp.net/attachments/750334021342461992/847373969988255784/20210527_130523.png">
-
 ## Stats
 <img src="https://github-readme-stats.vercel.app/api?username=kakashidracq&count_private=true&show_icons=true&theme=radical">
+
+<img src="https://media.discordapp.net/attachments/750334021342461992/858078580386824192/kakashibot.jpg?width=1025&height=234">
 
