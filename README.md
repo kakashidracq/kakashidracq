@@ -4,7 +4,7 @@ I'm KAKASHI (KAKASHI#3709) discord, I am a teen developer learning as much as I 
 ## Knowledge
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
 
-## Social
+## :mailbox: Reach me out!
 [![Discord Badge](https://img.shields.io/static/v1?label=D&message=Discord&color=brightgreen&link=https://discord.gg/cjAHPfyy6d)](https://discord.gg/cjAHPfyy6d)
 [![Kakashi Bot](https://img.shields.io/static/v1?label=BOT&message=KAKASHI&color=blue&link=http://bit.ly/botkakashi)](http://bit.ly/botkakashi)
 ## Languages
