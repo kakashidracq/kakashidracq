@@ -21,7 +21,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kakashidracq&show_icons=true&theme=radical">
 
 ## ⏲️ Stats
-<img src="https://github-readme-stats.kakashidracq.vercel.app/api?username=kakashidracq&count_private=true&show_icons=true&theme=radical">
+<img src="https://github-readme-stats.vercel.app/api?username=kakashidracq&count_private=true&show_icons=true&theme=radical">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kakashidracq" alt="kakashidracq" /></a> </p>
 
 #### :eye: Profile Visits 
