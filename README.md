@@ -6,6 +6,9 @@
 - 🔭 I’m currently working on [KAKASHI discord bot](http://bit.ly/botkakashi)
 
 - 👨‍💻 All of my projects are available at [here](https://github.com/kakashidracq?tab=repositories)
+
+[![Discord](https://discord.c99.nl/widget/theme-2/614018799212953611.png)](http://bit.ly/botkakashi)
+
 ## 📖 Knowledge
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
 
