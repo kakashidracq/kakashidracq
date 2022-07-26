@@ -32,6 +32,6 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=kakashidracq)
 
-
+-----
 <img src ="https://i.imgur.com/rncA0ga.jpg">
-
+-----
