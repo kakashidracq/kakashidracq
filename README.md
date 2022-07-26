@@ -4,7 +4,7 @@
 
 ## ⌨️ About Me
 
-- 🔭 I’m currently working on <img src ="https://i.imgur.com/Mgz8x7R.png"> [KAKASHI discord bot](http://bit.ly/botkakashi)
+- 🔭 I’m currently working on  [KAKASHI discord bot](http://bit.ly/botkakashi)
 
 - 👨‍💻 All of my projects are available at [here](https://github.com/kakashidracq?tab=repositories)
 
