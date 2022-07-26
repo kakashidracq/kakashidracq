@@ -5,6 +5,9 @@
 ## ⌨️ About Me
 
 - 🔭 I’m currently working on  [KAKASHI discord bot](http://bit.ly/botkakashi)
+<p align="left">
+<a href="https://discord.gg/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="3fk2qxWTZZ" height="30" width="40" /></a>
+</p>
 
 - 👨‍💻 All of my projects are available at [here](https://github.com/kakashidracq?tab=repositories)
 
