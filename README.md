@@ -1,6 +1,8 @@
 <h1 align="center">Hi there I'm Kakashi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"></h1>
 <h3 align="center">I am a teen learning as much as I can</h3>
 
+<img src="https://media.discordapp.net/attachments/750334021342461992/858078580386824192/kakashibot.jpg?width=1025&height=234">
+
 ## ⌨️ About Me
 
 - 🔭 I’m currently working on [KAKASHI discord bot](http://bit.ly/botkakashi)
@@ -31,5 +33,6 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=kakashidracq)
 
-<img src="https://media.discordapp.net/attachments/750334021342461992/858078580386824192/kakashibot.jpg?width=1025&height=234">
+
+<img src ="https://i.imgur.com/rncA0ga.jpg">
 
